@@ -1,2 +1,3 @@
 x=input()
-print(len(x))
+a=len(x)
+print(a)
