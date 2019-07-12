@@ -1,3 +1,3 @@
-aas=int(input())
-asd=int(input())
-print(aas**asd)
+a=int(input())
+d=int(input())
+print(a**d)
