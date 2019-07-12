@@ -1,2 +1,2 @@
-p=input()
-print(len(p))
+asdp=input()
+print(len(asdp))
