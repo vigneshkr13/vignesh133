@@ -1,2 +1,2 @@
-a,b=map(int,input().split())
-print(a**b)
+aas,bas=map(int,input().split())
+print(aas**bas)
