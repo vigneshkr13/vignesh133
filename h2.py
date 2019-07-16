@@ -1,8 +1,8 @@
-x=int(input())
-if(x>=1 and x<=100000):
-  l=[]
-  for i in range(0,x):
-    l.append(input())
-  l.sort(reverse=True)
-  for i in l:
+aa=int(input())
+if(aa>=1 and aa<=100000):
+  la=[]
+  for i in range(0,aa):
+    la.append(input())
+  la.sort(reverse=True)
+  for i in la:
     print(i,end="")
